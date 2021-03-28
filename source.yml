@@ -15,8 +15,7 @@
 name: orise.projects
 
 imports:
-    - type: local
-      url: ros2_official-package_set
+    - github: orise-robotics/ros2.official-package_set
 
 version_control:
   - .*:

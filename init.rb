@@ -36,5 +36,3 @@
 #
 # NOTE: Variables set like this are exported in the generated 'env.sh' script.
 #
-require 'autoproj/gitorious'
-Autoproj.gitorious_server_configuration('GITHUB', 'github.com', :http_url => 'https://github.com')
